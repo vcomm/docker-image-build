@@ -1,2 +1,2 @@
-FROM hello-docker-image
+FROM hello-world
 LABEL architecture=x86
